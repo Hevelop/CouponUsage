@@ -1,0 +1,16 @@
+{
+  "name": "belvg/coupon-usage",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Pavel Novitsky",
+      "email": "pavel@belvg.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
